@@ -39,7 +39,8 @@ AI-Image-Captioning-System/
 ▶️ How to Run the Project
 
 1️⃣ Clone the Repository
-git clone https://github.com/YOUR-USERNAME/AI-Image-Captioning-System.git
+https://github.com/Mrudula-Kagitala/AI-Based-Image-Captioning-System-.git
+
 cd AI-Image-Captioning-System
 
 2️⃣ Create Virtual Environment
@@ -70,6 +71,15 @@ http://127.0.0.1:5000
 Input Image	Generated Caption
 🐶 Dog Image	"A dog sitting on the grass"
 🚲 Bicycle Image	"A bicycle parked on a street"
+
+
+<img width="1837" height="933" alt="Screenshot 2025-12-05 133434" src="https://github.com/user-attachments/assets/1a9f7f64-7dcd-4ee5-a2f1-e61c2b18d5d8" />
+
+
+<img width="908" height="885" alt="Screenshot 2025-12-05 133655" src="https://github.com/user-attachments/assets/8c5fcf8d-43ee-4c1a-a61f-f160e724c825" />
+
+
+<img width="758" height="898" alt="Screenshot 2025-12-05 134217" src="https://github.com/user-attachments/assets/a4d5ac7b-483f-49a3-b548-645d89cd6508" />
 
 
 📚 How It Works
